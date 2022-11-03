@@ -1,0 +1,645 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a Multi Selection Item Sidebar with add data button 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginBottom": 10,
+        "paddingHorizontal": 11,
+      }
+    }
+  >
+    <TextInput
+      fullWidth={true}
+      hintText="search"
+      icon="search"
+      iconStyle={
+        Object {
+          "color": "#E4EBE6",
+        }
+      }
+      onTextChange={[Function]}
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderBottomColor": "#EBEBEB",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "height": 46,
+        "marginBottom": 6,
+        "marginHorizontal": 10,
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "width": 40,
+        }
+      }
+    >
+      <Checkbox
+        checked={false}
+        checkedIcon={
+          <undefined
+            name="check-box"
+            style={
+              Object {
+                "color": "#4A90E2",
+              }
+            }
+          />
+        }
+        onCheck={[Function]}
+        style={
+          Object {
+            "color": "#4A90E2",
+            "width": 20,
+          }
+        }
+        uncheckedIcon={
+          <undefined
+            color="#E4EBE6"
+            name="check-box-outline-blank"
+          />
+        }
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+          Object {
+            "height": "100%",
+            "paddingVertical": 8,
+            "width": "80%",
+          },
+        ]
+      }
+    >
+      <Touchable
+        onPress={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <undefined
+            style={
+              Object {
+                "color": "#CCC",
+                "fontSize": 10,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            ASSIGNED
+          </undefined>
+        </View>
+      </Touchable>
+      <Touchable
+        onPress={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <undefined
+            style={
+              Object {
+                "color": "#4A90E2",
+                "fontSize": 10,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            UNASSIGNED
+          </undefined>
+        </View>
+      </Touchable>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <ScrollView>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 16,
+            "marginHorizontal": 10,
+            "width": "90%",
+          }
+        }
+      >
+        <Checkbox
+          checked={false}
+          checkedIcon={
+            <undefined
+              name="check-box"
+              style={
+                Object {
+                  "color": "#4A90E2",
+                }
+              }
+            />
+          }
+          onCheck={[Function]}
+          uncheckedIcon={
+            <undefined
+              color="#E4EBE6"
+              name="check-box-outline-blank"
+            />
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "#E4EBE6",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "overflow": "scroll",
+              "paddingRight": 4,
+              "paddingVertical": 10,
+              "width": "80%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "height": 20,
+                "marginHorizontal": 8,
+                "width": 20,
+              }
+            }
+          >
+            <undefined
+              name="user"
+            />
+          </View>
+          <undefined>
+            item 2
+          </undefined>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 16,
+            "marginHorizontal": 10,
+            "width": "90%",
+          }
+        }
+      >
+        <Checkbox
+          checked={false}
+          checkedIcon={
+            <undefined
+              name="check-box"
+              style={
+                Object {
+                  "color": "#4A90E2",
+                }
+              }
+            />
+          }
+          onCheck={[Function]}
+          uncheckedIcon={
+            <undefined
+              color="#E4EBE6"
+              name="check-box-outline-blank"
+            />
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "#E4EBE6",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "overflow": "scroll",
+              "paddingRight": 4,
+              "paddingVertical": 10,
+              "width": "80%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "height": 20,
+                "marginHorizontal": 8,
+                "width": 20,
+              }
+            }
+          >
+            <undefined
+              name="user"
+            />
+          </View>
+          <undefined>
+            item 3
+          </undefined>
+        </View>
+      </View>
+    </ScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": 10,
+      }
+    }
+  >
+    <Button
+      label="Add More Data"
+      onPress={[Function]}
+      secondary={true}
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginTop": 10,
+        }
+      }
+    >
+      <Button
+        label="Cancel"
+        onPress={[Function]}
+        secondary={true}
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <Button
+        label="Confirm"
+        onPress={[Function]}
+        primary={true}
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`should render a Multi Selection Item Sidebar with correct props 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginBottom": 10,
+        "paddingHorizontal": 11,
+      }
+    }
+  >
+    <TextInput
+      fullWidth={true}
+      hintText="search"
+      icon="search"
+      iconStyle={
+        Object {
+          "color": "#E4EBE6",
+        }
+      }
+      onTextChange={[Function]}
+      value=""
+    />
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderBottomColor": "#EBEBEB",
+        "borderBottomWidth": 1,
+        "flexDirection": "row",
+        "height": 46,
+        "marginBottom": 6,
+        "marginHorizontal": 10,
+        "width": "90%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "width": 40,
+        }
+      }
+    >
+      <Checkbox
+        checked={false}
+        checkedIcon={
+          <undefined
+            name="check-box"
+            style={
+              Object {
+                "color": "#4A90E2",
+              }
+            }
+          />
+        }
+        onCheck={[Function]}
+        style={
+          Object {
+            "color": "#4A90E2",
+            "width": 20,
+          }
+        }
+        uncheckedIcon={
+          <undefined
+            color="#E4EBE6"
+            name="check-box-outline-blank"
+          />
+        }
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "flexDirection": "row",
+          },
+          Object {
+            "height": "100%",
+            "paddingVertical": 8,
+            "width": "80%",
+          },
+        ]
+      }
+    >
+      <Touchable
+        onPress={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <undefined
+            style={
+              Object {
+                "color": "#CCC",
+                "fontSize": 10,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            ASSIGNED
+          </undefined>
+        </View>
+      </Touchable>
+      <Touchable
+        onPress={[Function]}
+      >
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "flex": 1,
+              "justifyContent": "center",
+            }
+          }
+        >
+          <undefined
+            style={
+              Object {
+                "color": "#4A90E2",
+                "fontSize": 10,
+                "fontWeight": "bold",
+              }
+            }
+          >
+            UNASSIGNED
+          </undefined>
+        </View>
+      </Touchable>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "flex": 1,
+        "paddingTop": 10,
+      }
+    }
+  >
+    <ScrollView>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 16,
+            "marginHorizontal": 10,
+            "width": "90%",
+          }
+        }
+      >
+        <Checkbox
+          checked={false}
+          checkedIcon={
+            <undefined
+              name="check-box"
+              style={
+                Object {
+                  "color": "#4A90E2",
+                }
+              }
+            />
+          }
+          onCheck={[Function]}
+          uncheckedIcon={
+            <undefined
+              color="#E4EBE6"
+              name="check-box-outline-blank"
+            />
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "#E4EBE6",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "overflow": "scroll",
+              "paddingRight": 4,
+              "paddingVertical": 10,
+              "width": "80%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "height": 20,
+                "marginHorizontal": 8,
+                "width": 20,
+              }
+            }
+          >
+            <undefined
+              name="user"
+            />
+          </View>
+          <undefined>
+            item 2
+          </undefined>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "marginBottom": 16,
+            "marginHorizontal": 10,
+            "width": "90%",
+          }
+        }
+      >
+        <Checkbox
+          checked={false}
+          checkedIcon={
+            <undefined
+              name="check-box"
+              style={
+                Object {
+                  "color": "#4A90E2",
+                }
+              }
+            />
+          }
+          onCheck={[Function]}
+          uncheckedIcon={
+            <undefined
+              color="#E4EBE6"
+              name="check-box-outline-blank"
+            />
+          }
+        />
+        <View
+          style={
+            Object {
+              "alignItems": "center",
+              "borderColor": "#E4EBE6",
+              "borderRadius": 2,
+              "borderWidth": 1,
+              "flexDirection": "row",
+              "overflow": "scroll",
+              "paddingRight": 4,
+              "paddingVertical": 10,
+              "width": "80%",
+            }
+          }
+        >
+          <View
+            style={
+              Object {
+                "height": 20,
+                "marginHorizontal": 8,
+                "width": 20,
+              }
+            }
+          >
+            <undefined
+              name="user"
+            />
+          </View>
+          <undefined>
+            item 3
+          </undefined>
+        </View>
+      </View>
+    </ScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "marginTop": 10,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginTop": 10,
+        }
+      }
+    >
+      <Button
+        label="Cancel"
+        onPress={[Function]}
+        secondary={true}
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      />
+      <Button
+        label="Confirm"
+        onPress={[Function]}
+        primary={true}
+      />
+    </View>
+  </View>
+</View>
+`;

@@ -1,0 +1,113 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header component correctly 1`] = `
+<View
+  style={126}
+>
+  <View
+    style={125}
+  >
+    <TextComponent
+      customStyle="header"
+      style={
+        Array [
+          127,
+          128,
+        ]
+      }
+    >
+      31
+    </TextComponent>
+    <TextComponent
+      customStyle="title"
+      style={127}
+    >
+      Billboard
+    </TextComponent>
+  </View>
+  <View
+    style={125}
+  >
+    <TextComponent
+      customStyle="header"
+      style={
+        Array [
+          127,
+          128,
+        ]
+      }
+    >
+      20
+    </TextComponent>
+    <TextComponent
+      customStyle="title"
+      style={127}
+    >
+      Baliho
+    </TextComponent>
+  </View>
+  <View
+    style={125}
+  >
+    <TextComponent
+      customStyle="header"
+      style={
+        Array [
+          127,
+          128,
+        ]
+      }
+    >
+      30
+    </TextComponent>
+    <TextComponent
+      customStyle="title"
+      style={127}
+    >
+      Mini Billboard
+    </TextComponent>
+  </View>
+  <View
+    style={125}
+  >
+    <TextComponent
+      customStyle="header"
+      style={
+        Array [
+          127,
+          128,
+        ]
+      }
+    >
+      15
+    </TextComponent>
+    <TextComponent
+      customStyle="title"
+      style={127}
+    >
+      Street Sign
+    </TextComponent>
+  </View>
+  <View
+    style={125}
+  >
+    <TextComponent
+      customStyle="header"
+      style={
+        Array [
+          127,
+          128,
+        ]
+      }
+    >
+      11
+    </TextComponent>
+    <TextComponent
+      customStyle="title"
+      style={127}
+    >
+      Other OOH
+    </TextComponent>
+  </View>
+</View>
+`;

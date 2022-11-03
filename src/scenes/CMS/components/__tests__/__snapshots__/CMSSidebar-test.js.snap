@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a CMS Sidebar with Correct Children 1`] = `
+<View
+  style={
+    Array [
+      67,
+      undefined,
+    ]
+  }
+>
+  <Text
+    customStyle="title"
+    style={68}
+  >
+    Group List
+  </Text>
+  <View
+    style={69}
+  />
+  <View
+    props={Object {}}
+  />
+</View>
+`;

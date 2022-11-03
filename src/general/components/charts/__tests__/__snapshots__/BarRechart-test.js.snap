@@ -1,0 +1,1188 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BarRechart Should render bar chart axis correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={true}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart axis correctly 2`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="vertical"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={true}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={true}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={120}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart axis ticks correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart axis ticks correctly 2`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="vertical"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={true}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="right"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={120}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart grid correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart legend correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Legend
+      align="center"
+      iconSize={14}
+      layout="horizontal"
+      verticalAlign="bottom"
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render bar chart tooltip correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Tooltip
+      active={false}
+      animationDuration={400}
+      animationEasing="ease"
+      content={[Function]}
+      coordinate={
+        Object {
+          "x": 0,
+          "y": 0,
+        }
+      }
+      cursor={true}
+      cursorStyle={Object {}}
+      isAnimationActive={true}
+      itemSorter={[Function]}
+      itemStyle={Object {}}
+      labelStyle={Object {}}
+      offset={10}
+      separator=" : "
+      viewBox={
+        Object {
+          "x1": 0,
+          "x2": 0,
+          "y1": 0,
+          "y2": 0,
+        }
+      }
+      wrapperStyle={Object {}}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;
+
+exports[`BarRechart Should render horizontal bar chart correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <BarChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "name": "a",
+          "value": 25,
+        },
+        Object {
+          "name": "b",
+          "value": 15,
+        },
+        Object {
+          "name": "c",
+          "value": 5,
+        },
+        Object {
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="vertical"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={true}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={120}
+      yAxisId={0}
+    />
+    <Bar
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      barSize={30}
+      data={Array []}
+      dataKey="value"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      layout="vertical"
+      legendType="rect"
+      maxBarSize={30}
+      minPointSize={0}
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </BarChart>
+</ResponsiveContainer>
+`;

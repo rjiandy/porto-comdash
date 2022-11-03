@@ -1,0 +1,2804 @@
+{
+  "smokerProfile": [
+    {
+      "territory": "Bandar Lampung",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Batam",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Bukittinggi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Jakarta Timur",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Jambi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Kotabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Labuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Malang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Manado",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Muara Bungo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Padang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Pontianak",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Pontianak & Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Samarinda",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0
+    },
+    {
+      "territory": "Air Molek",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Cirebon",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Depok",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Jakarta Barat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Makassar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Pekanbaru",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Pekanbaru & Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Pematang Siantar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.4
+    },
+    {
+      "territory": "Mojokerto & Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.5
+    },
+    {
+      "territory": "Pati",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.5
+    },
+    {
+      "territory": "Serang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.5
+    },
+    {
+      "territory": "Banda Aceh",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.8
+    },
+    {
+      "territory": "Batu Raja",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.8
+    },
+    {
+      "territory": "Bengkulu",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.8
+    },
+    {
+      "territory": "Palembang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.8
+    },
+    {
+      "territory": "Jakarta Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 0.9
+    },
+    {
+      "territory": "Mojokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1
+    },
+    {
+      "territory": "Probolinggo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1
+    },
+    {
+      "territory": "Jakarta Utara & Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.1
+    },
+    {
+      "territory": "Sumatra 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.1
+    },
+    {
+      "territory": "Padang Sidempuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.2
+    },
+    {
+      "territory": "Yogyakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.2
+    },
+    {
+      "territory": "Jakarta Utara",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.3
+    },
+    {
+      "territory": "Medan 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.3
+    },
+    {
+      "territory": "Medan 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.3
+    },
+    {
+      "territory": "Purwokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.3
+    },
+    {
+      "territory": "Tasikmalaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.3
+    },
+    {
+      "territory": "Pangkal Pinang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.4
+    },
+    {
+      "territory": "South Sumatra",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.4
+    },
+    {
+      "territory": "Sumatra 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.4
+    },
+    {
+      "territory": "Sumatra 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.4
+    },
+    {
+      "territory": "Kalimantan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.5
+    },
+    {
+      "territory": "Madiun",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.5
+    },
+    {
+      "territory": "Palangkaraya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.5
+    },
+    {
+      "territory": "Jakarta Inner",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.6
+    },
+    {
+      "territory": "Jakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.7
+    },
+    {
+      "territory": "Jakarta Outer",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.7
+    },
+    {
+      "territory": "Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.8
+    },
+    {
+      "territory": "Surakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.8
+    },
+    {
+      "territory": "Surakarta & Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.8
+    },
+    {
+      "territory": "Banjarmasin",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 1.9
+    },
+    {
+      "territory": "Bekasi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2
+    },
+    {
+      "territory": "Bogor",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2
+    },
+    {
+      "territory": "Surabaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2
+    },
+    {
+      "territory": "Sukabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2.2
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "AGE",
+      "legend": "LA-24",
+      "measure": 2.4
+    },
+    {
+      "territory": "Kediri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2.4
+    },
+    {
+      "territory": "Bandung 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2.5
+    },
+    {
+      "territory": "Bandung 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2.5
+    },
+    {
+      "territory": "Jakarta Selatan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 2.6
+    },
+    {
+      "territory": "Jember",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.1
+    },
+    {
+      "territory": "Sumatra 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.1
+    },
+    {
+      "territory": "Tuban",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.1
+    },
+    {
+      "territory": "East",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.6
+    },
+    {
+      "territory": "Denpasar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.8
+    },
+    {
+      "territory": "Garut",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 3.9
+    },
+    {
+      "territory": "Pamekasan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "SES",
+      "legend": "UPPER",
+      "measure": 4.1
+    },
+    {
+      "territory": "Semarang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4.3
+    },
+    {
+      "territory": "Bandung 2 & 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4.4
+    },
+    {
+      "territory": "Magelang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4.4
+    },
+    {
+      "territory": "Tuban & Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 4.9
+    },
+    {
+      "territory": "East Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 5.4
+    },
+    {
+      "territory": "Java 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 5.4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "AGE",
+      "legend": "25-29",
+      "measure": 5.7
+    },
+    {
+      "territory": "Bandung 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 6.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "SES",
+      "legend": "UPPER",
+      "measure": 6.6
+    },
+    {
+      "territory": "Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 6.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "SES",
+      "legend": "UPPER",
+      "measure": 7.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "AGE",
+      "legend": "30-34",
+      "measure": 8.1
+    },
+    {
+      "territory": "Java 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 8.2
+    },
+    {
+      "territory": "West Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 8.2
+    },
+    {
+      "territory": "Bali NT",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 8.7
+    },
+    {
+      "territory": "Java 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 9.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "SES",
+      "legend": "UPPER",
+      "measure": 9.3
+    },
+    {
+      "territory": "Central Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 9.4
+    },
+    {
+      "territory": "Java 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3-",
+      "measure": 9.6
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "AGE",
+      "legend": "25-29",
+      "measure": 12.5
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "AGE",
+      "legend": "30-34",
+      "measure": 12.5
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "AGE",
+      "legend": "45+",
+      "measure": 13.2
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "AGE",
+      "legend": "25-29",
+      "measure": 13.4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "AGE",
+      "legend": "45+",
+      "measure": 13.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "AGE",
+      "legend": "30-34",
+      "measure": 13.9
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "AGE",
+      "legend": "30-34",
+      "measure": 14.4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "SES",
+      "legend": "LOWER",
+      "measure": 14.6
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "AGE",
+      "legend": "LA-24",
+      "measure": 14.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "SES",
+      "legend": "LOWER",
+      "measure": 14.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "AGE",
+      "legend": "LA-24",
+      "measure": 15.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "AGE",
+      "legend": "30-34",
+      "measure": 18.4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "SES",
+      "legend": "UPPER",
+      "measure": 19.5
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "AGE",
+      "legend": "LA-24",
+      "measure": 19.6
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "AGE",
+      "legend": "25-29",
+      "measure": 20.4
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "SES",
+      "legend": "MIDDLE 2",
+      "measure": 21.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "SES",
+      "legend": "LOWER",
+      "measure": 22.3
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "AGE",
+      "legend": "25-29",
+      "measure": 22.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "SES",
+      "legend": "MIDDLE 1",
+      "measure": 22.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "AGE",
+      "legend": "35-44",
+      "measure": 23.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "AGE",
+      "legend": "LA-24",
+      "measure": 23.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "SES",
+      "legend": "LOWER",
+      "measure": 23.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "AGE",
+      "legend": "35-44",
+      "measure": 26.6
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "PUR_STICK",
+      "legend": "NULL",
+      "measure": 27.2
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "AGE",
+      "legend": "35-44",
+      "measure": 27.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "AGE",
+      "legend": "35-44",
+      "measure": 27.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "SES",
+      "legend": "MIDDLE 2",
+      "measure": 27.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "AGE",
+      "legend": "45+",
+      "measure": 29.6
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "AGE",
+      "legend": "45+",
+      "measure": 31.2
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "AGE",
+      "legend": "35-44",
+      "measure": 31.9
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "SES",
+      "legend": "MIDDLE 2",
+      "measure": 33
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "SES",
+      "legend": "MIDDLE 1",
+      "measure": 35
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "SES",
+      "legend": "MIDDLE 2",
+      "measure": 35.9
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "SES",
+      "legend": "MIDDLE 1",
+      "measure": 36.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM High Tar",
+      "itemType": "SES",
+      "legend": "MIDDLE 2",
+      "measure": 36.1
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "SES",
+      "legend": "LOWER",
+      "measure": 37.3
+    },
+    {
+      "territory": "Yogyakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 42.3
+    },
+    {
+      "territory": "Indonesia",
+      "product": "White",
+      "itemType": "SES",
+      "legend": "MIDDLE 1",
+      "measure": 44.7
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKM Low Tar",
+      "itemType": "SES",
+      "legend": "MIDDLE 1",
+      "measure": 48.1
+    },
+    {
+      "territory": "Magelang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 48.3
+    },
+    {
+      "territory": "Semarang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 50.5
+    },
+    {
+      "territory": "Denpasar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 52.5
+    },
+    {
+      "territory": "Banjarmasin",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 53.5
+    },
+    {
+      "territory": "Surabaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 53.5
+    },
+    {
+      "territory": "Surakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 53.9
+    },
+    {
+      "territory": "Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 54.1
+    },
+    {
+      "territory": "Surakarta & Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 54.3
+    },
+    {
+      "territory": "Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 54.8
+    },
+    {
+      "territory": "Probolinggo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 55
+    },
+    {
+      "territory": "Kediri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 55.7
+    },
+    {
+      "territory": "Tuban & Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 55.8
+    },
+    {
+      "territory": "Indonesia",
+      "product": "SKT",
+      "itemType": "AGE",
+      "legend": "45+",
+      "measure": 56
+    },
+    {
+      "territory": "Cirebon",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 56.5
+    },
+    {
+      "territory": "Pati",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 56.9
+    },
+    {
+      "territory": "Tuban",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 57.3
+    },
+    {
+      "territory": "Mojokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 58.4
+    },
+    {
+      "territory": "Mojokerto & Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 61
+    },
+    {
+      "territory": "Bekasi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 61.5
+    },
+    {
+      "territory": "Purwokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 61.8
+    },
+    {
+      "territory": "Pamekasan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 62
+    },
+    {
+      "territory": "Banda Aceh",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 62.1
+    },
+    {
+      "territory": "Madiun",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 62.7
+    },
+    {
+      "territory": "Batam",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 62.9
+    },
+    {
+      "territory": "Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 63.7
+    },
+    {
+      "territory": "Jakarta Barat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 64.1
+    },
+    {
+      "territory": "Jakarta Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 64.3
+    },
+    {
+      "territory": "Makassar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.1
+    },
+    {
+      "territory": "Jember",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.3
+    },
+    {
+      "territory": "Pontianak",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.3
+    },
+    {
+      "territory": "Pontianak & Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.3
+    },
+    {
+      "territory": "Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.3
+    },
+    {
+      "territory": "Jambi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.4
+    },
+    {
+      "territory": "Jakarta Selatan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.8
+    },
+    {
+      "territory": "Manado",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 65.9
+    },
+    {
+      "territory": "Bandar Lampung",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.1
+    },
+    {
+      "territory": "Kotabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.1
+    },
+    {
+      "territory": "Medan 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.1
+    },
+    {
+      "territory": "Medan 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.1
+    },
+    {
+      "territory": "Pematang Siantar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.3
+    },
+    {
+      "territory": "Garut",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 67.6
+    },
+    {
+      "territory": "Air Molek",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.3
+    },
+    {
+      "territory": "Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.3
+    },
+    {
+      "territory": "Pekanbaru",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.3
+    },
+    {
+      "territory": "Pekanbaru & Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.3
+    },
+    {
+      "territory": "Jakarta Utara & Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.4
+    },
+    {
+      "territory": "Malang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 68.7
+    },
+    {
+      "territory": "Depok",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 69.3
+    },
+    {
+      "territory": "Padang Sidempuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 69.3
+    },
+    {
+      "territory": "Palembang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 69.6
+    },
+    {
+      "territory": "Bandung 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 70.4
+    },
+    {
+      "territory": "Bandung 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 71.6
+    },
+    {
+      "territory": "Batu Raja",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 71.7
+    },
+    {
+      "territory": "Tasikmalaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 72.1
+    },
+    {
+      "territory": "Jakarta Timur",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 72.2
+    },
+    {
+      "territory": "Jakarta Utara",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 72.6
+    },
+    {
+      "territory": "Bengkulu",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 72.7
+    },
+    {
+      "territory": "Bogor",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 73
+    },
+    {
+      "territory": "Bukittinggi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 73.3
+    },
+    {
+      "territory": "Serang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 74.3
+    },
+    {
+      "territory": "Bandung 2 & 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 74.9
+    },
+    {
+      "territory": "Sukabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 75.1
+    },
+    {
+      "territory": "Bandung 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 78.6
+    },
+    {
+      "territory": "Padang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 79.8
+    },
+    {
+      "territory": "Muara Bungo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 81.6
+    },
+    {
+      "territory": "Samarinda",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 81.7
+    },
+    {
+      "territory": "Labuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 84.7
+    },
+    {
+      "territory": "Air Molek",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Banda Aceh",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bandar Lampung",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bandung 1",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bandung 2",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bandung 2 & 3",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bandung 3",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Banjarmasin",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Batam",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Batu Raja",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bekasi",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bengkulu",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bogor",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Bukittinggi",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Cirebon",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Denpasar",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Depok",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Duri",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Garut",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Gresik",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Barat",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Pusat",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Selatan",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Timur",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Utara",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jakarta Utara & Pusat",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jambi",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Jember",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Kediri",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Kotabumi",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Labuan",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Madiun",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Magelang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Makassar",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Malang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Manado",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Medan 1",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Medan 2",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Mojokerto",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Mojokerto & Sidoarjo",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Muara Bungo",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Padang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Padang Sidempuan",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Palembang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pamekasan",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pati",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pekanbaru",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pekanbaru & Duri",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pematang Siantar",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pontianak",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Pontianak & Sintang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Probolinggo",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Purwokerto",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Salatiga",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Samarinda",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Semarang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Serang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Sidoarjo",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Sintang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Sukabumi",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Surabaya",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Surakarta",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Surakarta & Salatiga",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Tasikmalaya",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Tuban",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Tuban & Gresik",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Yogyakarta",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 100
+    },
+    {
+      "territory": "Java 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 162.7
+    },
+    {
+      "territory": "Central Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 165.5
+    },
+    {
+      "territory": "Java 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 168.1
+    },
+    {
+      "territory": "East Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 180
+    },
+    {
+      "territory": "Java 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 180
+    },
+    {
+      "territory": "Indonesia",
+      "product": "NULL",
+      "itemType": "AVG",
+      "legend": "NULL",
+      "measure": 180.7
+    },
+    {
+      "territory": "Bali NT",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 183.6
+    },
+    {
+      "territory": "Sumatra 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 188.3
+    },
+    {
+      "territory": "East",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 189.2
+    },
+    {
+      "territory": "Indonesia",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 190.6
+    },
+    {
+      "territory": "Java 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 193.5
+    },
+    {
+      "territory": "West Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 193.5
+    },
+    {
+      "territory": "Kalimantan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 193.9
+    },
+    {
+      "territory": "Palangkaraya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 193.9
+    },
+    {
+      "territory": "Jakarta Inner",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 197.6
+    },
+    {
+      "territory": "Sumatra 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 200.2
+    },
+    {
+      "territory": "Jakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 207.7
+    },
+    {
+      "territory": "Pangkal Pinang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 210.3
+    },
+    {
+      "territory": "South Sumatra",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 210.3
+    },
+    {
+      "territory": "Sumatra 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 210.3
+    },
+    {
+      "territory": "Sumatra 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 210.3
+    },
+    {
+      "territory": "Jakarta Outer",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Smoker 3+",
+      "measure": 219.5
+    },
+    {
+      "territory": "Indonesia",
+      "product": "MARKET",
+      "itemType": "PUR_PACK",
+      "legend": "NULL",
+      "measure": 271.9
+    },
+    {
+      "territory": "Bali NT",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Central Java",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "East",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "East Java",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Indonesia",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Jakarta",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Jakarta Inner",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Jakarta Outer",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Java 1",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Java 2",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Java 3",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Java 4",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Kalimantan",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Palangkaraya",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Pangkal Pinang",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "South Sumatra",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Sumatra 1",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Sumatra 2",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Sumatra 3",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Sumatra 4",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "West Java",
+      "product": "NULL",
+      "itemType": "SMOKER_TOTAL",
+      "legend": "NULL",
+      "measure": 300
+    },
+    {
+      "territory": "Air Molek",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.3
+    },
+    {
+      "territory": "Bali NT",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 107.7
+    },
+    {
+      "territory": "Banda Aceh",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 37.1
+    },
+    {
+      "territory": "Bandar Lampung",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 32.9
+    },
+    {
+      "territory": "Bandung 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 27.1
+    },
+    {
+      "territory": "Bandung 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 22.3
+    },
+    {
+      "territory": "Bandung 2 & 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 20.7
+    },
+    {
+      "territory": "Bandung 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 18.9
+    },
+    {
+      "territory": "Banjarmasin",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 44.6
+    },
+    {
+      "territory": "Batam",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 37.1
+    },
+    {
+      "territory": "Batu Raja",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 27.5
+    },
+    {
+      "territory": "Bekasi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 36.5
+    },
+    {
+      "territory": "Bengkulu",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 26.5
+    },
+    {
+      "territory": "Bogor",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 25
+    },
+    {
+      "territory": "Bukittinggi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 26.7
+    },
+    {
+      "territory": "Central Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 125.1
+    },
+    {
+      "territory": "Cirebon",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 43
+    },
+    {
+      "territory": "Denpasar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 43.7
+    },
+    {
+      "territory": "Depok",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 30.3
+    },
+    {
+      "territory": "Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.3
+    },
+    {
+      "territory": "East",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 107.2
+    },
+    {
+      "territory": "East Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 114.7
+    },
+    {
+      "territory": "Garut",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 28.4
+    },
+    {
+      "territory": "Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 39
+    },
+    {
+      "territory": "Indonesia",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 105.2
+    },
+    {
+      "territory": "Jakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 90.6
+    },
+    {
+      "territory": "Jakarta Barat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 35.5
+    },
+    {
+      "territory": "Jakarta Inner",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 100.8
+    },
+    {
+      "territory": "Jakarta Outer",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 78.8
+    },
+    {
+      "territory": "Jakarta Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.8
+    },
+    {
+      "territory": "Jakarta Selatan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.6
+    },
+    {
+      "territory": "Jakarta Timur",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 27.8
+    },
+    {
+      "territory": "Jakarta Utara",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 26.1
+    },
+    {
+      "territory": "Jakarta Utara & Pusat",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 30.5
+    },
+    {
+      "territory": "Jambi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.6
+    },
+    {
+      "territory": "Java 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 98.3
+    },
+    {
+      "territory": "Java 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 128.2
+    },
+    {
+      "territory": "Java 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 122.2
+    },
+    {
+      "territory": "Java 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 114.7
+    },
+    {
+      "territory": "Jember",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.6
+    },
+    {
+      "territory": "Kalimantan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 104.6
+    },
+    {
+      "territory": "Kediri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 41.9
+    },
+    {
+      "territory": "Kotabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 32.9
+    },
+    {
+      "territory": "Labuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 15.3
+    },
+    {
+      "territory": "Madiun",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 35.8
+    },
+    {
+      "territory": "Magelang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 47.3
+    },
+    {
+      "territory": "Makassar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.5
+    },
+    {
+      "territory": "Malang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.3
+    },
+    {
+      "territory": "Manado",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.1
+    },
+    {
+      "territory": "Medan 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.6
+    },
+    {
+      "territory": "Medan 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.6
+    },
+    {
+      "territory": "Mojokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 40.6
+    },
+    {
+      "territory": "Mojokerto & Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 38.5
+    },
+    {
+      "territory": "Muara Bungo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 18.4
+    },
+    {
+      "territory": "Padang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 20.2
+    },
+    {
+      "territory": "Padang Sidempuan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 29.5
+    },
+    {
+      "territory": "Palangkaraya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 104.6
+    },
+    {
+      "territory": "Palembang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 29.6
+    },
+    {
+      "territory": "Pamekasan",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34
+    },
+    {
+      "territory": "Pangkal Pinang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 88.2
+    },
+    {
+      "territory": "Pati",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 42.6
+    },
+    {
+      "territory": "Pekanbaru",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.3
+    },
+    {
+      "territory": "Pekanbaru & Duri",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 31.3
+    },
+    {
+      "territory": "Pematang Siantar",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 32.3
+    },
+    {
+      "territory": "Pontianak",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.7
+    },
+    {
+      "territory": "Pontianak & Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.7
+    },
+    {
+      "territory": "Probolinggo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 44
+    },
+    {
+      "territory": "Purwokerto",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 36.9
+    },
+    {
+      "territory": "Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 43.4
+    },
+    {
+      "territory": "Samarinda",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 18.3
+    },
+    {
+      "territory": "Semarang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 45.2
+    },
+    {
+      "territory": "Serang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 25.2
+    },
+    {
+      "territory": "Sidoarjo",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 36.3
+    },
+    {
+      "territory": "Sintang",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 34.7
+    },
+    {
+      "territory": "South Sumatra",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 88.2
+    },
+    {
+      "territory": "Sukabumi",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 22.7
+    },
+    {
+      "territory": "Sumatra 1",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 108.6
+    },
+    {
+      "territory": "Sumatra 2",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 98.7
+    },
+    {
+      "territory": "Sumatra 3",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 88.2
+    },
+    {
+      "territory": "Sumatra 4",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 88.2
+    },
+    {
+      "territory": "Surabaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 44.5
+    },
+    {
+      "territory": "Surakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 44.3
+    },
+    {
+      "territory": "Surakarta & Salatiga",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 43.9
+    },
+    {
+      "territory": "Tasikmalaya",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 26.6
+    },
+    {
+      "territory": "Tuban",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 39.6
+    },
+    {
+      "territory": "Tuban & Gresik",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 39.3
+    },
+    {
+      "territory": "West Java",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 98.3
+    },
+    {
+      "territory": "Yogyakarta",
+      "product": "NULL",
+      "itemType": "DONUT",
+      "legend": "Non Smoker",
+      "measure": 56.5
+    }
+  ]
+}

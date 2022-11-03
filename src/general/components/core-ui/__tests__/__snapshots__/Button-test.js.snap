@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render button 1`] = `
+<FlatButton
+  disabled={false}
+  fullWidth={false}
+  label="click me"
+  labelPosition="after"
+  labelStyle={
+    Object {
+      "fontFamily": "SanFransiscoDisplay",
+      "fontSize": 11,
+      "fontWeight": "200",
+    }
+  }
+  onKeyboardFocus={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  onTouchStart={[Function]}
+  onTouchTap={[Function]}
+  primary={false}
+  secondary={false}
+  style={
+    Object {
+      "borderRadius": 3,
+      "cursor": undefined,
+    }
+  }
+/>
+`;
+
+exports[`should render button with type according to props 1`] = `
+Object {
+  "border": "1px solid #4A90E2",
+  "borderRadius": 3,
+  "cursor": undefined,
+  "flexDirection": "row",
+}
+`;

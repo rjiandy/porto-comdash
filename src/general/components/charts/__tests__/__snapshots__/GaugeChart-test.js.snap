@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render gauge bar chart correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width={100}
+>
+  <PieChart
+    barCategoryGap="10%"
+    barGap={4}
+    cx="50%"
+    cy="50%"
+    endAngle={360}
+    innerRadius={0}
+    layout="centric"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    outerRadius="80%"
+    stackOffset="none"
+    startAngle={0}
+  >
+    <Pie
+      activeIndex={0}
+      animationBegin={400}
+      animationDuration={500}
+      animationEasing="ease"
+      cx={50}
+      cy={50}
+      data={
+        Array [
+          Object {
+            "color": "#FF1E3C",
+            "value": 25,
+          },
+          Object {
+            "color": "#FFD700",
+            "value": 25,
+          },
+          Object {
+            "color": "#FFD700",
+            "value": 25,
+          },
+          Object {
+            "color": "#63A500",
+            "value": 25,
+          },
+        ]
+      }
+      endAngle={0}
+      fill="#808080"
+      hide={false}
+      innerRadius={0}
+      isAnimationActive={true}
+      label={[Function]}
+      labelLine={false}
+      legendType="rect"
+      minAngle={0}
+      outerRadius={35}
+      paddingAngle={0}
+      startAngle={180}
+      stroke="#fff"
+    >
+      <Cell
+        fill="#FF1E3C"
+      />
+      <Cell
+        fill="#FFD700"
+      />
+      <Cell
+        fill="#FFD700"
+      />
+      <Cell
+        fill="#63A500"
+      />
+    </Pie>
+    <Pie
+      activeIndex={1}
+      activeShape={[Function]}
+      animationBegin={400}
+      animationDuration={1500}
+      animationEasing="ease"
+      cx={50}
+      cy={50}
+      data={
+        Array [
+          Object {
+            "value": 10.5,
+          },
+          Object {
+            "value": 0,
+          },
+          Object {
+            "value": 89.5,
+          },
+        ]
+      }
+      endAngle={0}
+      fill="none"
+      hide={false}
+      innerRadius={0}
+      isAnimationActive={true}
+      labelLine={true}
+      legendType="rect"
+      minAngle={0}
+      outerRadius="80%"
+      paddingAngle={0}
+      startAngle={180}
+      stroke="none"
+    />
+    <Tooltip
+      active={false}
+      animationDuration={400}
+      animationEasing="ease"
+      content={[Function]}
+      coordinate={
+        Object {
+          "x": 0,
+          "y": 0,
+        }
+      }
+      cursor={true}
+      cursorStyle={Object {}}
+      isAnimationActive={true}
+      itemSorter={[Function]}
+      itemStyle={Object {}}
+      labelStyle={Object {}}
+      offset={10}
+      separator=" : "
+      viewBox={
+        Object {
+          "x1": 0,
+          "x2": 0,
+          "y1": 0,
+          "y2": 0,
+        }
+      }
+      wrapperStyle={Object {}}
+    />
+  </PieChart>
+</ResponsiveContainer>
+`;

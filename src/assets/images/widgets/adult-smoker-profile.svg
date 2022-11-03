@@ -1,0 +1,119 @@
+<svg width="231px" height="170px" viewBox="0 0 231 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>.a,.b,.d{fill:none;}.b,.c{clip-path:url(#a);}.b{clip-rule:evenodd;}.d{stroke:#fff;stroke-miterlimit:10;}.e{clip-path:url(#d);}.f{fill:#67a3e9;}.g{clip-path:url(#e);}.h{fill:#84b5ec;}.i{clip-path:url(#f);}.j{fill:#468edf;}.k{clip-path:url(#g);}.l{clip-path:url(#h);}.m{clip-path:url(#i);}.n{clip-path:url(#j);}.o{clip-path:url(#k);}.p{clip-path:url(#l);}.q{clip-path:url(#m);}.r{clip-path:url(#n);}.s{clip-path:url(#o);}.t{clip-path:url(#p);}.u{clip-path:url(#q);}.v{clip-path:url(#r);}.w{clip-path:url(#s);}.x{clip-path:url(#t);}.y{clip-path:url(#u);}</style>
+    <clipPath id="a">
+      <rect class="a" width="231" height="170" />
+    </clipPath>
+    <clipPath id="d">
+      <rect class="a" x="16" y="16" width="95" height="26" />
+    </clipPath>
+    <clipPath id="e">
+      <rect class="a" x="118" y="16" width="97" height="57" />
+    </clipPath>
+    <clipPath id="f">
+      <rect class="a" x="163" y="52" width="7" height="21" />
+    </clipPath>
+    <clipPath id="g">
+      <rect class="a" x="133" y="52" width="7" height="21" />
+    </clipPath>
+    <clipPath id="h">
+      <rect class="a" x="148" y="48" width="7" height="25" />
+    </clipPath>
+    <clipPath id="i">
+      <rect class="a" x="178" y="41" width="7" height="32" />
+    </clipPath>
+    <clipPath id="j">
+      <rect class="a" x="193" y="35" width="7" height="38" />
+    </clipPath>
+    <clipPath id="k">
+      <rect class="a" x="118" y="79" width="97" height="57" />
+    </clipPath>
+    <clipPath id="l">
+      <rect class="a" x="16" y="141" width="95" height="13" />
+    </clipPath>
+    <clipPath id="m">
+      <rect class="a" x="118" y="141" width="97" height="13" />
+    </clipPath>
+    <clipPath id="n">
+      <rect class="a" x="16" y="47" width="95" height="89" />
+    </clipPath>
+    <clipPath id="o">
+      <path class="b" d="M92.51,81a29.54,29.54,0,0,1-5.26,29.74L78,103.1a17.54,17.54,0,0,0,4-15.41L92.51,81Z" />
+    </clipPath>
+    <clipPath id="p">
+      <path class="b" d="M89.09,81a29.51,29.51,0,1,0-5.26,29.74l-9.26-7.65a17.5,17.5,0,1,1,4-15.41L89.09,81Z" />
+    </clipPath>
+    <clipPath id="q">
+      <rect class="a" x="163" y="115" width="7" height="21" />
+    </clipPath>
+    <clipPath id="r">
+      <rect class="a" x="133" y="115" width="7" height="21" />
+    </clipPath>
+    <clipPath id="s">
+      <rect class="a" x="148" y="111" width="7" height="25" />
+    </clipPath>
+    <clipPath id="t">
+      <rect class="a" x="178" y="104" width="7" height="32" />
+    </clipPath>
+    <clipPath id="u">
+      <rect class="a" x="193" y="98" width="7" height="38" />
+    </clipPath>
+  </defs>
+  <g class="c">
+    <path class="d" d="M1,6A5,5,0,0,1,6,1H225a5,5,0,0,1,5,5V164a5,5,0,0,1-5,5H6a5,5,0,0,1-5-5V6Z" />
+  </g>
+  <g class="e">
+    <rect class="f" x="11" y="11" width="105" height="36" />
+  </g>
+  <g class="g">
+    <rect class="h" x="113" y="11" width="107" height="67" />
+  </g>
+  <g class="i">
+    <rect class="j" x="158" y="47" width="17" height="31" />
+  </g>
+  <g class="k">
+    <rect class="j" x="128" y="47" width="17" height="31" />
+  </g>
+  <g class="l">
+    <rect class="j" x="143" y="43" width="17" height="35" />
+  </g>
+  <g class="m">
+    <rect class="j" x="173" y="36" width="17" height="42" />
+  </g>
+  <g class="n">
+    <rect class="j" x="188" y="30" width="17" height="48" />
+  </g>
+  <g class="o">
+    <rect class="h" x="113" y="74" width="107" height="67" />
+  </g>
+  <g class="p">
+    <rect class="f" x="11" y="136" width="105" height="23" />
+  </g>
+  <g class="q">
+    <rect class="f" x="113" y="136" width="107" height="23" />
+  </g>
+  <g class="r">
+    <rect class="h" x="11" y="42" width="105" height="99" />
+  </g>
+  <g class="s">
+    <rect class="f" x="73" y="76" width="26.42" height="39.74" />
+  </g>
+  <g class="t">
+    <rect class="j" x="27" y="57" width="67.09" height="69" />
+  </g>
+  <g class="u">
+    <rect class="j" x="158" y="110" width="17" height="31" />
+  </g>
+  <g class="v">
+    <rect class="j" x="128" y="110" width="17" height="31" />
+  </g>
+  <g class="w">
+    <rect class="j" x="143" y="106" width="17" height="35" />
+  </g>
+  <g class="x">
+    <rect class="j" x="173" y="99" width="17" height="42" />
+  </g>
+  <g class="y">
+    <rect class="j" x="188" y="93" width="17" height="48" />
+  </g>
+</svg>

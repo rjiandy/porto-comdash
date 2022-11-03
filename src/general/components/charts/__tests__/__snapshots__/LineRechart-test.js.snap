@@ -1,0 +1,1304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LineRechart Should render line chart axis correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": 5,
+          "d_foo": 25,
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": 25,
+          "d_foo": 15,
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": 15,
+          "d_foo": 5,
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": 35,
+          "d_foo": 55,
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={true}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 30,
+          "right": 30,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickFormatter={[Function]}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;
+
+exports[`LineRechart Should render line chart axis correctly 2`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": "a",
+          "d_foo": "c",
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": "c",
+          "d_foo": "b",
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": "b",
+          "d_foo": "a",
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": "d",
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+        Object {
+          "d_foo": "d",
+          "group": "foo",
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="vertical"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={true}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={true}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={120}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;
+
+exports[`LineRechart Should render line chart correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": 5,
+          "d_foo": 25,
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": 25,
+          "d_foo": 15,
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": 15,
+          "d_foo": 5,
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": 35,
+          "d_foo": 55,
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 30,
+          "right": 30,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickFormatter={[Function]}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;
+
+exports[`LineRechart Should render line chart legend correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": 5,
+          "d_foo": 25,
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": 25,
+          "d_foo": 15,
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": 15,
+          "d_foo": 5,
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": 35,
+          "d_foo": 55,
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 30,
+          "right": 30,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickFormatter={[Function]}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Legend
+      align="center"
+      iconSize={14}
+      layout="horizontal"
+      verticalAlign="bottom"
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;
+
+exports[`LineRechart Should render line chart tooltip correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": 5,
+          "d_foo": 25,
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": 25,
+          "d_foo": 15,
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": 15,
+          "d_foo": 5,
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": 35,
+          "d_foo": 55,
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+      ]
+    }
+    layout="horizontal"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 30,
+          "right": 30,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickFormatter={[Function]}
+      tickLine={false}
+      type="category"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={true}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={60}
+      yAxisId={0}
+    />
+    <Tooltip
+      active={false}
+      animationDuration={400}
+      animationEasing="ease"
+      content={[Function]}
+      coordinate={
+        Object {
+          "x": 0,
+          "y": 0,
+        }
+      }
+      cursor={true}
+      cursorStyle={Object {}}
+      isAnimationActive={true}
+      itemSorter={[Function]}
+      itemStyle={Object {}}
+      labelStyle={Object {}}
+      offset={10}
+      separator=" : "
+      viewBox={
+        Object {
+          "x1": 0,
+          "x2": 0,
+          "y1": 0,
+          "y2": 0,
+        }
+      }
+      wrapperStyle={Object {}}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;
+
+exports[`LineRechart Should render vertical line chart correctly 1`] = `
+<ResponsiveContainer
+  debounce={0}
+  height="100%"
+  width="100%"
+>
+  <LineChart
+    barCategoryGap="10%"
+    barGap={4}
+    data={
+      Array [
+        Object {
+          "d_bar": "a",
+          "d_foo": "c",
+          "group": "bar",
+          "name": "a",
+          "value": 5,
+        },
+        Object {
+          "d_bar": "c",
+          "d_foo": "b",
+          "group": "bar",
+          "name": "c",
+          "value": 15,
+        },
+        Object {
+          "d_bar": "b",
+          "d_foo": "a",
+          "group": "bar",
+          "name": "b",
+          "value": 25,
+        },
+        Object {
+          "d_bar": "d",
+          "group": "bar",
+          "name": "d",
+          "value": 35,
+        },
+        Object {
+          "d_foo": "d",
+          "group": "foo",
+          "name": "d",
+          "value": 55,
+        },
+      ]
+    }
+    layout="vertical"
+    margin={
+      Object {
+        "bottom": 5,
+        "left": 5,
+        "right": 5,
+        "top": 5,
+      }
+    }
+    stackOffset="none"
+  >
+    <XAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={30}
+      hide={true}
+      mirror={false}
+      orientation="bottom"
+      padding={
+        Object {
+          "left": 0,
+          "right": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={false}
+      tickCount={5}
+      tickLine={false}
+      type="number"
+      width={0}
+      xAxisId={0}
+    />
+    <YAxis
+      allowDataOverflow={false}
+      allowDecimals={true}
+      axisLine={false}
+      dataKey="name"
+      domain={
+        Array [
+          0,
+          "auto",
+        ]
+      }
+      height={0}
+      hide={false}
+      interval={0}
+      mirror={false}
+      orientation="left"
+      padding={
+        Object {
+          "bottom": 0,
+          "top": 0,
+        }
+      }
+      reversed={false}
+      scale="auto"
+      tick={
+        Object {
+          "fontSize": 11,
+          "width": 150,
+        }
+      }
+      tickCount={5}
+      tickLine={false}
+      type="category"
+      width={120}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_foo"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="coral"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+    <Line
+      activeDot={true}
+      animationBegin={0}
+      animationDuration={500}
+      animationEasing="ease"
+      connectNulls={false}
+      dataKey="d_bar"
+      dot={true}
+      fill="#fff"
+      hide={false}
+      isAnimationActive={true}
+      label={[Function]}
+      legendType="line"
+      onAnimationEnd={[Function]}
+      onAnimationStart={[Function]}
+      points={Array []}
+      stroke="mediumturquoise"
+      strokeWidth={1}
+      type="monotone"
+      xAxisId={0}
+      yAxisId={0}
+    />
+  </LineChart>
+</ResponsiveContainer>
+`;

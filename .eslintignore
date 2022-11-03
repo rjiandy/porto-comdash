@@ -1,0 +1,10 @@
+/lib
+/build
+/coverage
+/fixtures
+/flow-typed/npm
+/node_modules
+/public
+/starter/node/flow-typed
+/starter/react-native/flow-typed
+/starter/react-web/flow-typed
